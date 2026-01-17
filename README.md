@@ -13,7 +13,7 @@ SQL Server + Power BI + Streamlit ile geliştirilmiş kapsamlı kütüphane yön
 
 ## Demo 
 
-![Demo 0](assets/0.png)
+![Demo 0](demo/0.png)
 
 ![Demo 1](assets/1.png)
 
