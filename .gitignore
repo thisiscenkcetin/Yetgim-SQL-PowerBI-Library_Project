@@ -1,0 +1,34 @@
+# Power BI
+*.pbix-rels
+*.pbit
+*.pbitm
+.pbi/
+
+# SQL
+*.bak
+*.mdf
+*.ldf
+
+# IDE
+.vscode/
+*.code-workspace
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+
+# Node (if used)
+node_modules/
+package-lock.json
+
+# Python (if used)
+__pycache__/
+*.py[cod]
+venv/
