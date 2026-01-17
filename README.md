@@ -13,27 +13,27 @@ SQL Server + Power BI + Streamlit ile geliştirilmiş kapsamlı kütüphane yön
 
 ## Demo 
 
-![Demo 0](demo/0.png)
+![Demo 0](https://github.com/thisiscenkcetin/Yetgim-SQL-PowerBI-Library_Project/blob/main/Demo/0.png?raw=true)
 
-![Demo 1](assets/1.png)
+![Demo 1](https://github.com/thisiscenkcetin/Yetgim-SQL-PowerBI-Library_Project/blob/main/Demo/1.png?raw=true)
 
-![Demo 2](assets/2.png)
+![Demo 2](https://github.com/thisiscenkcetin/Yetgim-SQL-PowerBI-Library_Project/blob/main/Demo/2.png?raw=true)
 
-![Demo 3](assets/3.png)
+![Demo 3](https://github.com/thisiscenkcetin/Yetgim-SQL-PowerBI-Library_Project/blob/main/Demo/3.png?raw=true)
 
-![Demo 4](assets/4.png)
+![Demo 4](https://github.com/thisiscenkcetin/Yetgim-SQL-PowerBI-Library_Project/blob/main/Demo/4.png?raw=true)
 
-![Demo 5](assets/5.png)
+![Demo 5](https://github.com/thisiscenkcetin/Yetgim-SQL-PowerBI-Library_Project/blob/main/Demo/5.png?raw=true)
 
-![Demo 6](assets/6.png)
+![Demo 6](https://github.com/thisiscenkcetin/Yetgim-SQL-PowerBI-Library_Project/blob/main/Demo/7.png?raw=true)
 
-![Demo 7](assets/7.png)
+![Demo 7](https://github.com/thisiscenkcetin/Yetgim-SQL-PowerBI-Library_Project/blob/main/Demo/7.png?raw=true)
 
-![Demo 8](assets/8.png)
+![Demo 8](https://github.com/thisiscenkcetin/Yetgim-SQL-PowerBI-Library_Project/blob/main/Demo/8.png?raw=true)
 
-![Demo 9](assets/9.png)
+![Demo 9](https://github.com/thisiscenkcetin/Yetgim-SQL-PowerBI-Library_Project/blob/main/Demo/9.png?raw=true)
 
-![Demo 10](assets/10.png)
+![Demo 10](https://github.com/thisiscenkcetin/Yetgim-SQL-PowerBI-Library_Project/blob/main/Demo/10.png?raw=true)
 
 
 ## 📁 Klasör Yapısı
