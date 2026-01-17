@@ -1,6 +1,6 @@
 import streamlit as st
 from modules.auth import AuthManager
-from app_pages import dashboard, odenç_islemleri, iade_islemleri, uye_yonetimi, kitap_envanteri, raporlar, ayarlar
+from app_pages import dashboard, odunc_islemleri, iade_islemleri, uye_yonetimi, kitap_envanteri, raporlar, ayarlar
 
 # ===== SAYFA AYARI =====
 st.set_page_config(
@@ -69,7 +69,7 @@ else:
     
     elif page == "Ödünç İşlemleri":
         AuthManager.require_permission("write_odenç")
-        odenç_islemleri.show()
+        odunc_islemleri.show()
     
     elif page == "İade İşlemleri":
         AuthManager.require_permission("write_iade")
