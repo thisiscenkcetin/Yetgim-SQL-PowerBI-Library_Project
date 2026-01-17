@@ -1,4 +1,9 @@
-import pyodbc
+try:
+    import pyodbc
+    PYODBC_AVAILABLE = True
+except ImportError:
+    PYODBC_AVAILABLE = False
+    
 import pandas as pd
 from datetime import datetime, timedelta
 import logging
@@ -12,6 +17,9 @@ class DatabaseHandler:
     """SQL Server veritabanı işlemleri"""
     
     def __init__(self, server, database, username, password):
+        if not PYODBC_AVAILABLE:
+            self.conn = None
+            return
         self.server = server
         self.database = database
         self.username = username
@@ -27,6 +35,8 @@ class DatabaseHandler:
     
     def connect(self):
         """Veritabanına bağlan"""
+        if not PYODBC_AVAILABLE:
+            return False
         try:
             self.conn = pyodbc.connect(self.connection_string)
             logger.info("✅ Veritabanı bağlantısı başarılı")
