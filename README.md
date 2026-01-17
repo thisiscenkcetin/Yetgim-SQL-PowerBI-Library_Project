@@ -12,7 +12,7 @@ SQL Server + Power BI + Streamlit ile geliştirilmiş kapsamlı kütüphane yön
 
 
 ## Demo Dashboard
-Veri bağlantısı kurulmadan çalışmaz. Sadece arayüz demosudur, örnek veri listeler:
+Veri bağlantısı kurulmadan çalışmaz. Sadece arayüz demosudur, örnek veri listeler: 
 https://yetgim-sql-powerbi-libraryproject-6ygawbp2dw4r46tdwcg6y6.streamlit.app/
 
 Veritabanı bağlı halini aşağıdaki görsellerden görebilirsiniz.
