@@ -11,7 +11,13 @@ SQL Server + Power BI + Streamlit ile geliştirilmiş kapsamlı kütüphane yön
 | **Streamlit** | Web tabanlı yönetim arayüzü |
 
 
-## Demo 
+## Demo Dashboard
+Veri bağlantısı kurulmadan çalışmaz. Sadece arayüz demosudur, örnek veri listeler:
+https://yetgim-sql-powerbi-libraryproject-6ygawbp2dw4r46tdwcg6y6.streamlit.app/
+
+Veritabanı bağlı halini aşağıdaki görsellerden görebilirsiniz.
+
+## Demo Görseller
 
 ![Demo 0](https://github.com/thisiscenkcetin/Yetgim-SQL-PowerBI-Library_Project/blob/main/Demo/0.png?raw=true)
 
